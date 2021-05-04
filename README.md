@@ -16,5 +16,5 @@ It is desired to investigate whether there is a correlation between the amount o
 It is hypothesized that due to the predicted increase in solar irradiance entering the atmosphere, Texas’ temperature climate will also increase. This increase will be derived by the effects of greenhouse gases present in the earth’s atmosphere. 
 
 ### Expected Results:
-The following python code will analyze the collected data in the following manner outlined in the "Analysis" listed above. It is expected that we will see an increase in average temperature in southern Texas.
+The following python code will analyze the collected data in the following manner outlined in the "Analysis" listed above. The results include Satellite Imagery, RTMA Imagery, Metar Imagery, Statistical analysis of data, time derived plots, PDF's, correlations, and FFT analysis.
 
