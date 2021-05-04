@@ -1,7 +1,7 @@
 # Project Information
 
 ### Code Capabilities
-The code is capable to pull the collected data included in this github folder automatically (therefore no need to download the data). Unidata will be used for satallite, RTMA, and Metar visualization in Texas. The satallite images will be displays a couple days from the current day your run this code. Adjustments can be made so that you may obtain which ever time frame of images you desire. The code can be adapted to include more datasets for analysis, but further adjustments will be required in order to perform all analysis needed.
+The code is capable to pull the collected data included in this github folder automatically (therefore no need to download the data). Unidata will be used for satallite, RTMA, and Metar visualization in Texas. The satallite images will be displayed a couple days from the current day your run this code. Adjustments can be made so that you may obtain whichever time frame of images you desire. The code can be adapted to include more datasets for analysis, but further adjustments will be required in order to perform all analysis needed.
 
 ### Introduction:
 Global warming is defined as the gradual increase in the overall temperature of the earth’s atmosphere caused by greenhouse emissions. These greenhouse emissions can be listed as Carbon Dioxide (CO2), Methane (CH4), Nitrous Oxide (NO),  Ozone (O3), and various other pollutants. 
