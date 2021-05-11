@@ -20,7 +20,7 @@ The following python code will analyze the collected data in the following manne
 
 ### Original Data
 [1] Corpus Christi. (n.d.). Retrieved May 11, 2021, from https://openaq.org/#/location/1974, https://openaq.org/#/location/1973
-/n[2]  Laredo. (n.d.). Retrieved May 11, 2021, from https://openaq.org/#/location/1321
+\n[2]  Laredo. (n.d.). Retrieved May 11, 2021, from https://openaq.org/#/location/1321
 [3] Mission. (n.d.). Retrieved May 11, 2021, from https://openaq.org/#/location/1813
 [4] Brownsville. (n.d.). Retrieved May 11, 2021, from https://openaq.org/#/location/833
 [5] Andreas, A. (n.d.). UTPASRL daily data. Retrieved May 11, 2021, from https://midcdmz.nrel.gov/apps/daily.pl?site=UTPASRL&start=20110901&yr=2021&mo=4&dy=13 
