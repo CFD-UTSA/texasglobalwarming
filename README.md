@@ -18,3 +18,10 @@ It is hypothesized that due to the predicted increase in solar irradiance enteri
 ### Expected Results:
 The following python code will analyze the collected data in the following manner outlined in the "Analysis" listed above. The results include Satellite Imagery, RTMA Imagery, Metar Imagery, Statistical analysis of data, time derived plots, PDF's, correlations, and regressional analysis.
 
+### Original Data
+[1] Corpus Christi. (n.d.). Retrieved May 11, 2021, from https://openaq.org/#/location/1974, https://openaq.org/#/location/1973
+[2]  Laredo. (n.d.). Retrieved May 11, 2021, from https://openaq.org/#/location/1321
+[3] Mission. (n.d.). Retrieved May 11, 2021, from https://openaq.org/#/location/1813
+[4] Brownsville. (n.d.). Retrieved May 11, 2021, from https://openaq.org/#/location/833
+[5] Andreas, A. (n.d.). UTPASRL daily data. Retrieved May 11, 2021, from https://midcdmz.nrel.gov/apps/daily.pl?site=UTPASRL&start=20110901&yr=2021&mo=4&dy=13 
+[6] National Centers for Environmental Information (NCEI). (n.d.). Quality controlled datasets. Retrieved May 11, 2021, from https://www.ncdc.noaa.gov/crn/qcdatasets.html 
